@@ -33,7 +33,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the Repository**:
-
+- [GitHub Repository](https://github.com/Jacquilyn-F/Tech-Quiz-Test-Suite)
     ```bash
     git clone https://github.com/YOUR-USERNAME/tech-quiz-test-suite
     cd tech-quiz-test-suite
